@@ -1,0 +1,8 @@
+.pyc
+*.csv
+*.txt
+config.py
+venv
+.idea
+*.pyc
+tickets
